@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36d06d9f.chunk.css",
+    "main.js": "/static/js/main.22bb6019.chunk.js",
+    "main.js.map": "/static/js/main.22bb6019.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.145a0545.js",
+    "runtime-main.js.map": "/static/js/runtime-main.145a0545.js.map",
+    "static/css/2.eb43dee1.chunk.css": "/static/css/2.eb43dee1.chunk.css",
+    "static/js/2.a277aca8.chunk.js": "/static/js/2.a277aca8.chunk.js",
+    "static/js/2.a277aca8.chunk.js.map": "/static/js/2.a277aca8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.858565807bce8fe195c2e480d8ffdc59.js": "/precache-manifest.858565807bce8fe195c2e480d8ffdc59.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.eb43dee1.chunk.css.map": "/static/css/2.eb43dee1.chunk.css.map",
+    "static/css/main.36d06d9f.chunk.css.map": "/static/css/main.36d06d9f.chunk.css.map",
+    "static/js/2.a277aca8.chunk.js.LICENSE.txt": "/static/js/2.a277aca8.chunk.js.LICENSE.txt",
+    "static/media/NHL.jpg": "/static/media/NHL.aa423f11.jpg",
+    "static/media/baseballer.png": "/static/media/baseballer.322584e6.png",
+    "static/media/chicago.jpg": "/static/media/chicago.ba97adb4.jpg",
+    "static/media/hectic-meeting.jpg": "/static/media/hectic-meeting.6338f247.jpg",
+    "static/media/ri256.png": "/static/media/ri256.09581518.png",
+    "static/media/intro.css": "/static/media/spaceeclipse.d868bc1b.jpg",
+    "static/media/wrigley.jpg": "/static/media/wrigley.8194eb66.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.145a0545.js",
+    "static/css/2.eb43dee1.chunk.css",
+    "static/js/2.a277aca8.chunk.js",
+    "static/css/main.36d06d9f.chunk.css",
+    "static/js/main.22bb6019.chunk.js"
+  ]
+}
